@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21050eb7-a07d-425a-8c89-5809f1d07feb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TzvhrWVslyKZyERJ0LXoouLIYq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/bsong1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/image" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="scanip" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Dinner">
+    <configuration name="Dinner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1.Dinner" />
+      <module name="namtrietgia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DinnerGUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diningPhilosophers.DinnerGUI" />
+      <module name="namtrietgia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="diningPhilosophers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DinnerGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1.DinnerGUI" />
+      <module name="namtrietgia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanip.NewClass" />
+      <module name="namtrietgia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1.dmeo" />
+      <module name="namtrietgia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dinner" />
+        <item itemvalue="Application.DinnerGUI" />
+        <item itemvalue="Application.DinnerGUI (1)" />
+        <item itemvalue="Application.dmeo" />
+        <item itemvalue="Application.NewClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21050eb7-a07d-425a-8c89-5809f1d07feb" name="Default Changelist" comment="" />
+      <created>1574475861034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574475861034</updated>
+      <workItem from="1574475867739" duration="7629000" />
+      <workItem from="1574559532873" duration="15000" />
+      <workItem from="1575939286823" duration="1488000" />
+      <workItem from="1576078843866" duration="6402000" />
+      <workItem from="1576110710210" duration="888000" />
+      <workItem from="1576394108741" duration="670000" />
+      <workItem from="1576513693803" duration="1449000" />
+      <workItem from="1576545195400" duration="608000" />
+      <workItem from="1576634243233" duration="3376000" />
+      <workItem from="1576650345745" duration="27000" />
+      <workItem from="1576680952631" duration="895000" />
+      <workItem from="1576719858088" duration="828000" />
+      <workItem from="1576744101904" duration="23930000" />
+      <workItem from="1576810256340" duration="13199000" />
+      <workItem from="1576993943565" duration="771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="96" width="383" height="600" key="#com.intellij.ide.util.MemberChooser" timestamp="1576826838830">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="514" y="96" width="383" height="600" key="#com.intellij.ide.util.MemberChooser/47.27.1319.741@47.27.1319.741" timestamp="1576826838830" />
+    <state x="548" y="288" width="306" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576994842766">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="548" y="288" width="306" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/47.27.1319.741@47.27.1319.741" timestamp="1576994842766" />
+    <state x="439" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576635038312">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="439" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/47.27.1319.741@47.27.1319.741" timestamp="1576635038312" />
+    <state x="448" y="292" width="507" height="208" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576773064825">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="448" y="292" width="507" height="208" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/47.27.1319.741@47.27.1319.741" timestamp="1576773064825" />
+    <state x="430" y="154" key="FileChooserDialogImpl" timestamp="1576110990590">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="430" y="154" key="FileChooserDialogImpl/47.27.1319.741@47.27.1319.741" timestamp="1576110990590" />
+    <state x="147" y="125" width="1119" height="543" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576773285683">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="147" y="125" width="1119" height="543" key="com.intellij.history.integration.ui.views.FileHistoryDialog/47.27.1319.741@47.27.1319.741" timestamp="1576773285683" />
+    <state x="335" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576994788308">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="335" y="224" key="com.intellij.ide.util.TipDialog/47.27.1319.741@47.27.1319.741" timestamp="1576994788308" />
+    <state x="370" y="175" key="run.anything.popup" timestamp="1576810942453">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="370" y="175" key="run.anything.popup/47.27.1319.741@47.27.1319.741" timestamp="1576810942453" />
+  </component>
+</project>
